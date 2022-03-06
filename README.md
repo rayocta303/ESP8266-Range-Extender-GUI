@@ -14,8 +14,10 @@ Meshed IoT device with basic I/O capabilities and MQTT control
 By default, the ESP acts as STA and as soft-AP and transparently forwards any IP traffic through it. As it uses NAT no routing entries are required neither on the network side nor on the connected stations. Stations are configured via DHCP by default in the 192.168.4.0/24 net and receive their DNS responder address from the existing WiFi network.
 
 Measurements show, that it can achieve about 5 Mbps in both directions, so even streaming is possible.
+Flashing Tool:https://www.espressif.com/en/support/download/other-tools
 
-#Booting ES8266 First Time
+
+# Booting ES8266 First Time
 The ESP8266-Range-Extender-GUI starts with the following default configuration:
 
 SSID: ESP-148135
