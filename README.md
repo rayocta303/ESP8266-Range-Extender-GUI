@@ -17,6 +17,10 @@ Measurements show, that it can achieve about 5 Mbps in both directions, so even 
 
 Flashing Tool:https://www.espressif.com/en/support/download/other-tools
 
+# Screenshooots
+![Wi-Fi Configuration Page](screenshoot/Config.jpg)
+![Wi-Fi Survey Page](screenshoot/Survey.jpg)
+![Credit](screenshoot/Credit.jpg)
 
 # Booting ES8266 First Time
 The ESP8266-Range-Extender-GUI starts with the following default configuration:
