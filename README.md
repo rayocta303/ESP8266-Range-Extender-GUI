@@ -18,9 +18,9 @@ Measurements show, that it can achieve about 5 Mbps in both directions, so even 
 #Booting ES8266 First Time
 The ESP8266-Range-Extender-GUI starts with the following default configuration:
 
-SSID: Artask Range Extender 
+SSID: ESP-148135
 Password: none
 Network: 192.168.0.254
-After first boot (or factory reset) it will offer a WiFi network with an open AP and the ssid "Artask Range Extender ". It does not yet try to automatically re-connect to an uplink AP (as it does not know a valid ssid or password).
+After first boot (or factory reset) it will offer a WiFi network with an open AP and the ssid "ESP-148135". It does not yet try to automatically re-connect to an uplink AP (as it does not know a valid ssid or password).
 
 Connect to this WiFi network and do the basic configuration either via a simple web interface.
