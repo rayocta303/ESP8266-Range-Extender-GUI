@@ -4,7 +4,7 @@ A wireless repeater (also called wireless range extender or wifi extender) is a 
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
-[<img src="https://button.ibnux.net/trakteer/Artask Media.png" width="128">](https://trakteer.id/artask-technology-5bkbr)
+[<img src="https://button.ibnux.net/trakteer/Artask.png" width="128">](https://trakteer.id/artask-technology-5bkbr)
 
 ## Typical usage scenarios include:
 
