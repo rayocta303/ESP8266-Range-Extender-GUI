@@ -1,6 +1,9 @@
 # ESP8266-Range-Extender-GUI
 A wireless repeater (also called wireless range extender or wifi extender) is a device that takes an existing signal from a wireless router or wireless access point and rebroadcasts it to create a second network. When two or more hosts have to be connected with one another over the IEEE 802.11 protocol and the distance is too long for a direct connection to be established, a wireless repeater is used to bridge the gap. It can be a specialized stand-alone computer networking device. Also, some wireless network interface controllers (WNIC)s optionally support operating in such a mode. Those outside of the primary network will be able to connect through the new "repeated" network. However, as far as the original router or access point is concerned, only the repeater MAC is connected, making it necessary to enable safety features on the wireless repeater. Wireless repeaters are commonly used to improve signal range and strength within homes and small offices.
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
+[<img src="https://button.ibnux.net/trakteer/ibnux.png" width="128">](https://trakteer.id/artask-technology-5bkbr)
 Typical usage scenarios include:
 
 Simple range extender for an existing WiFi network
